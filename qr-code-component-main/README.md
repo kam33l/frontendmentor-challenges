@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- [Solution URL][(https://github.com/kam33l/frontendmentor-challenges/tree/953fc73bd826127782d093fc769cf131fea6b3f4/qr-code-component-main)
+- [Solution URL](https://github.com/kam33l/frontendmentor-challenges/tree/953fc73bd826127782d093fc769cf131fea6b3f4/qr-code-component-main)
 - [Live Site URL](https://frontendmentor-challenges-brown.vercel.app/)
 
 ## Bulit with
