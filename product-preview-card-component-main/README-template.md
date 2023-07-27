@@ -46,6 +46,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+- The first problem was make it load the righ image depending on the avaliable screen width resoultion. I used <source media> solution described at https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+
+
 ### Built with
 
 - Semantic HTML5 markup
