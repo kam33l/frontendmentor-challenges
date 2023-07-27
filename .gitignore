@@ -16,5 +16,5 @@
 .prettierignore
 
 #Ignore files and folders
-/design
-.README-template
+**/design
+*.README-template
