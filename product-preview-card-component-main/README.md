@@ -65,5 +65,5 @@ I can tell the browser to load selected image depending on the conditions met by
 
 ## Author
 
-- [Website](kamilmiarka.pl)
+- [Website](https://kamilmiarka.pl)
 - [FrontEnd Mentor](https://www.frontendmentor.io/profile/kam33l)
