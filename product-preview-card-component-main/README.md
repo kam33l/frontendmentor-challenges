@@ -61,7 +61,7 @@ I can tell the browser to load selected image depending on the conditions met by
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - Tutorial how to use <source media>
+- [Responsive Images in HTMK](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - Tutorial how to use source media
 
 ## Author
 
