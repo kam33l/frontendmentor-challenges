@@ -37,7 +37,7 @@ Users should be able to:
 
 - The first problem was make it load the righ image depending on the avaliable screen width resoultion. I used <source media> solution described at https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
 
--I measured the original template and wrote the html, css code
+- I measured the original template and wrote the html, css code
 
 
 ### Built with
