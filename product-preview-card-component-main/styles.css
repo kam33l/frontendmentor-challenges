@@ -31,6 +31,7 @@ body {
     background-color: hsl(30, 38%, 92%);
     display: grid;
     place-items: center;
+    padding-top: 25px;
 }
 
 main {
@@ -44,6 +45,10 @@ main {
 
 content { 
     margin: 20px 24px 20px 24px;
+}
+
+section { 
+    padding: 21px;
 }
 
 h1 { 
