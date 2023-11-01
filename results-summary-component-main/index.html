@@ -9,7 +9,7 @@
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <style>
-    .attribution { font-size: 11px; text-align: center; }
+    .attribution { font-size: 11px; text-align: center; position: absolute; display: block; width: 100%; bottom: 5%;}
     .attribution a { color: hsl(228, 45%, 44%); }
   </style>
 </head>
@@ -25,7 +25,32 @@
         <p id="result-scale">Great</p>
         <p id="result-describe">You scored higher than 65% of the people who have taken these tests.</p>
       </div>
-      <div class="component-summary"></div>
+      <div class="component-summary">
+        <h1>Summary</h1>
+        <div class="dataset reaction">
+          <img src="./assets/images/icon-reaction.svg" alt="thunder icon">
+          <p>Reaction</p>
+          <p>80</p>
+        </div>
+        <div class="dataset memory">
+          <img src="./assets/images/icon-memory.svg" alt="brain icon">
+          <p>Memory</p>
+          <p>92</p>
+        </div>
+        <div class="dataset verbal">
+          <img src="./assets/images/icon-verbal.svg" alt="verbal icon">
+          <p>Verbal</p>
+          <p>61</p>
+        </div>
+        <div class="dataset visual">
+          <img src="./assets/images/icon-visual.svg" alt="eye icon">
+          <p>Visual</p>
+          <p>72</p>
+        </div>
+        <div class="button">
+          Continue
+        </div>
+      </div>
     </div>
   </main>
 
