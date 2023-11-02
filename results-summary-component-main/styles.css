@@ -173,7 +173,46 @@ h1 {
     cursor: pointer;
 }
 
+.attribution { 
+    font-size: 11px;
+    text-align: center;
+    display: block;
+    position: absolute;
+    bottom: 5%;
+    width: 100%;
+}
 
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+@media only screen and (max-width: 724px) {
+    .component { 
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        border-radius: 0;
+    }
+
+    .component-result { 
+        border-top-right-radius: 0;
+        border-top-left-radius: 0;
+        width: 100vw;
+    }
+
+    .component-summary { 
+        width: 100%; 
+    }
+
+    .dataset { 
+        width: 100%;
+    }
+
+    .attribution { 
+        position: relative;
+        padding: 10px 0;
+    }
+}
 
 
 
