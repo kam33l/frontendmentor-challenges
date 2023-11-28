@@ -1,6 +1,5 @@
 # frontendmentor-challenges
 This repository contains challenges from [Frontend Mentor](https://www.frontendmentor.io/challenges).
-Here is a live preview [link](https://frontendmentor-challenges-kam33l.vercel.app/).
 
 ### Finished Projects
 
@@ -14,6 +13,6 @@ Here is a live preview [link](https://frontendmentor-challenges-kam33l.vercel.ap
 
 |Name|Difficulty| Technologies / Approaches |
 |---|---|---|
-| QR code component | :star: | HTML, CSS |
-| Product preview card component | :star: | HTML, CSS |
-| Results summary component | :star: | HTML, CSS |
+| [QR code component](https://frontendmentor-challenges-kam33l.vercel.app/qr-code-component-main/index.html) | :star: | HTML, CSS |
+| [Product preview card component](https://frontendmentor-challenges-kam33l.vercel.app/qr-code-component-main/index.html) | :star: | HTML, CSS |
+| [Results summary component](https://frontendmentor-challenges-kam33l.vercel.app/qr-code-component-main/index.html) | :star: | HTML, CSS |
