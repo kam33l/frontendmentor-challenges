@@ -14,3 +14,5 @@ This repository contains challenges from [Frontend Mentor](https://www.frontendm
 |Name|Difficulty| Technologies / Approaches |
 |---|---|---|
 | QR code component | :star: | HTML, CSS |
+| Product preview card component | :star: | HTML, CSS |
+| Results summary component | :star: | HTML, CSS |
